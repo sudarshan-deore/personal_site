@@ -61,16 +61,16 @@ h3 {
 }
 
 .bottom-cloud {
-  width: 250px;
+  width: 20%;
   position: absolute;
-  left: 200px;
+  left: 15%;
   top: 200px;
 }
 
 .top-cloud {
-  width: 300px;
+  width: 20%;
   position: absolute;
-  right: 250px;
+  right: 15%;
   top: 50px;
 }
 
